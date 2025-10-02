@@ -1,2 +1,2 @@
-# Website
-The one true website to rule them all
+# Personal Website
+An website to represent me on the internet hosted on github pages:
