@@ -24,15 +24,6 @@ This is a personal portfolio website for **Tsim Muaj Yang**, built using basic *
 │   ├── bobross.jpg  
 │   └── Moba.png  
 
-## How to Run
-
-1. Clone this repository:
-   git clone https://github.com/your-username/your-repo-name.git
-
 ## Github Page
 
 https://jimwall0.github.io/Website/
-
-## About Me
-
-I’m a prospective developer currently attending **Atlas School**, enrolled in the Full Stack Development program. I have experience working with HTML, CSS, Bootstrap, Tailwind, MySQL, Python, C, and JavaScript. My interests started in game deve
