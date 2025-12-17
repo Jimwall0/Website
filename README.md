@@ -29,7 +29,10 @@ This is a personal portfolio website for **Tsim Muaj Yang**, built using basic *
 1. Clone this repository:
    git clone https://github.com/your-username/your-repo-name.git
 
-2. Open `index.html` in your browser.
+## Github Page
+
+
+3. Open `index.html` in your browser.
 
 ## About Me
 
