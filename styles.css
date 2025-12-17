@@ -1,0 +1,38 @@
+:root {
+    --color-amber: #ffbf00;
+    --color-blue: #0040ff;
+    --color-gray: #DCE3E8;
+    --color-deep-navy: #002B5B;
+    --color-teal-blue: #008080;
+}
+
+body {
+    background-color: var(--color-amber);
+}
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-flow: column;
+    background-color: var(--color-amber);
+    color: var(--color-deep-navy);
+}
+
+.title {
+    font-size: 48px;
+    font-style: bold;
+}
+
+.about-me-container {
+    background-color: var(--color-gray);
+    display: flex;
+    justify-content: center;
+    flex-flow: column;
+    align-items: center;
+    text-align: center;
+}
+
+.subheading {
+    font-size: 32px;
+}
