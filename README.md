@@ -31,8 +31,7 @@ This is a personal portfolio website for **Tsim Muaj Yang**, built using basic *
 
 ## Github Page
 
-
-3. Open `index.html` in your browser.
+https://jimwall0.github.io/Website/
 
 ## About Me
 
