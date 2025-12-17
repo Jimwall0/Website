@@ -25,7 +25,8 @@ header {
 }
 
 .about-me-container {
-    background-color: var(--color-gray);
+    background-color: var(--color-deep-navy);
+    color: #ffffff;
     display: flex;
     justify-content: center;
     flex-flow: column;
@@ -35,4 +36,8 @@ header {
 
 .subheading {
     font-size: 32px;
+}
+
+.information {
+    display: flex;
 }
